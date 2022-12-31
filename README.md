@@ -6,7 +6,7 @@ This repository is for using the official YOLO-v4 implementation to identify peo
 ---
 YOLO stands for you only look once which is an object detection model based on deep learning.\
 YOLO-v4 is targeting the creation of a CNN that operates in real-time on a conventional GPU, and for which
-training requires only one conventional GPU.\
+training requires only one conventional GPU.  
 
 The following figure shows a comparison of the proposed YOLOv4 and other state-of-the-art object detectors.
 
