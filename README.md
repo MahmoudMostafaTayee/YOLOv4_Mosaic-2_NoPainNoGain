@@ -13,4 +13,7 @@ The following figure shows a comparison of the proposed YOLOv4 and other state-o
 
 
 For further reading, you may refer to the paper itself:  
-https://arxiv.org/pdf/2004.10934.pdf
+https://arxiv.org/pdf/2004.10934.pdf  
+
+To have a look on the dataset used, you may use the following kaggle link:  
+https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet
